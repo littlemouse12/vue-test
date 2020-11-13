@@ -20,5 +20,6 @@ steps:
     npm install --save-dev jest @vue/test-utils
     npm install --save-dev vue-jest
     npm install jest-html-reporters --save-dev
+    npm install eslint --save-dev
     npm run build
   displayName: 'npm install and build'
